@@ -16,6 +16,11 @@ Welcome to my repository for C programming! This repository tracks my journey as
   - **Concepts Used:** Integer data types, conditional statements, comparison operators, user input parsing, and standard I/O streams.
   - **File:** `program.c`
 
+- **Operator Precedence Demonstration**
+  - **Description:** A terminal-based program that demonstrates how C evaluates arithmetic expressions using operator precedence and parentheses.
+  - **Concepts Used:** Arithmetic operators, operator precedence, parentheses, integer expressions, and standard output.
+  - **File:** `program 3.c`
+
 ---
 
 ## 🛠️ Skills Covered
@@ -23,6 +28,7 @@ Welcome to my repository for C programming! This repository tracks my journey as
 - Core C Syntax & Data Types
 - Standard Input/Output (`printf`, `scanf`)
 - Basic Arithmetic Operators & Expressions
+- Operator Precedence & Parentheses
 - Float Precision Handling
 - Conditional Statements (`if`, `else`)
 - Comparison Operators
